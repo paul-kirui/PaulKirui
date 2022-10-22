@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Paul Kirui from Kenya, a tech support, python developer, technical writer, and ML enthusiast.
-- 🌱 I’m actively learning how to improve my tech writing skills in the IT industry.
+- 🌱 I’m actively learning how to improve my tech writing skills.
 - 👯 I’m looking to collaborate on exciting projects.
 - 📫 How to reach me: [@paul-kirui](https://www.linkedin.com/in/paul-kirui/)
 - ⚡ Fun fact: I'm Awesome! 😁
